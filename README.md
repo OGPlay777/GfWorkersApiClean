@@ -32,10 +32,6 @@ This project is a backend system designed for a metal processing and painting co
 
 This repository is intended for demonstration purposes and does not include real credentials. To run it:
 
-1. Clone the repository
-2. Set up environment variables or configuration files (`appsettings.json`) manually
-3. Run using Docker or standard .NET CLI tools
-
 ## 📄 License
 
 This repository is shared under the MIT license for demonstration and portfolio purposes.
