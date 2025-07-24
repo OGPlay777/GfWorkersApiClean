@@ -1,6 +1,6 @@
 # Metalworks Order Management System
 
-This project is a backend system designed for a metal processing and painting company to manage and track the full lifecycle of customer orders. It allows employees to log their work, monitor task progress, and control the production pipeline in real time.
+This (unfinished/in developement) project is a backend system designed for a metal processing and painting company to manage and track the full lifecycle of customer orders. It allows employees to log their work, monitor task progress, and control the production pipeline in real time.
 
 > ⚠️ This is a **public demo version** of the project. All sensitive data such as IP addresses, passwords, and secret keys have been removed or replaced with placeholder values.
 
